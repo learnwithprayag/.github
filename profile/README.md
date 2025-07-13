@@ -25,7 +25,7 @@ Pune | Mahrashtra | India  | [LinkedIn](https://www.linkedin.com/in/prayag-sango
 
 ---
 
-### 💼 Key Skills
+###  Key Skills
 
 **Cloud & Infra:** AWS, GCP, Azure, OTC, VPC, DNS, Load Balancers, API Gateway  
 **DevOps & IaC:** Terraform, Terragrunt, Ansible, Helm, Kustomize  
@@ -38,16 +38,16 @@ Pune | Mahrashtra | India  | [LinkedIn](https://www.linkedin.com/in/prayag-sango
 
 ---
 
-### 📘 Featured Repositories
+###  Featured Repositories
 
-| 🔗 Repo | 💡 Tech | 📄 Description |
+|  Repo |  Tech |  Description |
 |--------|---------|----------------|
-[🔧 docker-bootcamp](https://github.com/learnwithprayag/docker-bootcamp) | Docker, Compose | Live Docker course + labs  
+[ docker-bootcamp](https://github.com/learnwithprayag/docker-bootcamp) | Docker, Compose | Live Docker course + labs  
 
 
 ---
 
-### 🧪 Projects & Contributions
+###  Projects & Contributions
 
 - Reusable **Terraform & Terragrunt modules** for all clouds  
 - Self-hosted **OpenShift and Kubernetes clusters** for POCs  
@@ -57,18 +57,18 @@ Pune | Mahrashtra | India  | [LinkedIn](https://www.linkedin.com/in/prayag-sango
 
 ---
 
-### ☁️ Cloud Platform Matrix
+###  Cloud Platform Matrix
 
 | Platform | Tools Used | Workloads |
 |----------|------------|-----------|
-🟩 AWS | EC2, ALB, RDS, EKS, Route53 | WordPress, OpenShift, GitOps pipelines  
-🟦 Azure | AKS, VNet, Azure DevOps | Docker-based LLM inference pipelines  
-🟨 GCP | GKE, Cloud NAT, IAP, CloudSQL | Full-stack apps, Terraform labs  
-🏠 On-Prem | OpenShift (SNO & IPI), KVM, VMs | LLM hosting, observability stacks  
+ AWS | EC2, ALB, RDS, EKS, Route53 | WordPress, OpenShift, GitOps pipelines  
+ Azure | AKS, VNet, Azure DevOps | Docker-based LLM inference pipelines  
+ GCP | GKE, Cloud NAT, IAP, CloudSQL | Full-stack apps, Terraform labs  
+ On-Prem | OpenShift (SNO & IPI), KVM, VMs | LLM hosting, observability stacks  
 
 ---
 
-### 💬 Community & Connect
+###  Community & Connect
 
 | Platform | Link |
 |---------|------|
