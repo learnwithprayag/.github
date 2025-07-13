@@ -1,4 +1,4 @@
-<h1 align="center"> Welcome to LearnWithPrayag — DevOps | LLMOps | OpenShift | Cloud</h1>
+<h1 align="center"> LearnWithPrayag — DevOps | LLMOps | OpenShift | Cloud</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/DevOps-Architect-informational?style=flat-square&color=blue" />
