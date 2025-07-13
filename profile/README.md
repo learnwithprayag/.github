@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Docker-Captain--in--progress-blue?style=flat-square&logo=docker" />
   <img src="https://img.shields.io/badge/OpenShift-Expert-red?style=flat-square&logo=redhat" />
   <img src="https://img.shields.io/badge/LLMOps-Specialist-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cloud-GCP--AWS-green?style=flat-square&logo=google-cloud" />
+  <img src="https://img.shields.io/badge/Cloud-GCP--AWS-Azure-green?style=flat-square&logo=google-cloud" />
 </p>
 
 ---
