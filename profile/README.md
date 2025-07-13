@@ -13,10 +13,14 @@
 ##  PRAYAG SANGODE  
 **Senior DevOps & Cloud Architect | LLMOps | OpenShift Expert**  
  Pune, India  
- [LinkedIn](https://www.linkedin.com/in/prayag-sangode-41737318/)  
- [learnwithprayag.com](https://learnwithprayag.com)
- [https://medium.com/@prayag-sangode](https://medium.com/@prayag-sangode)
+LinkedIn
+https://www.linkedin.com/in/prayag-sangode-41737318/
 
+Medium Blog
+https://medium.com/@prayag-sangode
+
+Website
+https://learnwithprayag.com
 ---
 
 ###  Professional Summary
